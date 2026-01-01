@@ -24,7 +24,7 @@ structural performance, and automated fabrication.
 
 **Primary sources:**
 - https://www.media.mit.edu/projects/aguahoja/overview/
-
+- https://www.ingentaconnect.com/content/iass/piass/2019/00002019/00000006/art00020
 ---
 
 ## FLAM (Fungal-like Adhesive Materials) — Fernandez et al. (2018)
@@ -44,8 +44,7 @@ structural performance, and automated fabrication.
 - Final structural performance limited
 
 **Primary sources:**
-- https://doi.org/10.1016/j.matdes.2018.04.012
-- https://www.sciencedirect.com/science/article/pii/S0264127518302752
+- https://www.nature.com/articles/s41598-018-26985-2
 
 ---
 
@@ -64,8 +63,8 @@ structural performance, and automated fabrication.
 - Still relevant as a mechanism demonstration: pressure-driven hydrogen bonding
 
 **Representative sources:**
-- Nanocellulose review: https://doi.org/10.1039/C7CS00206H
-- Automotive nanocellulose overview: https://www.sciencedirect.com/science/article/pii/S2212827118301877
+- Nanocellulose review: https://www.mdpi.com/2079-4991/12/19/3483
+- Nano-cellulose vehicle: https://www.groovyjapan.com/en/ncv-moe
 
 ---
 
