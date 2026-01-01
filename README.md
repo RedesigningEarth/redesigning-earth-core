@@ -1,28 +1,15 @@
-# Redesigning Earth — Core
+# Materials
 
-Redesigning Earth develops and validates an automated construction system adapted to post-industrial constraints:
-- locally producible, renewable biological materials
-- large-scale additive manufacturing under persistent labor scarcity
+This folder contains **primary material logs** and **research synthesis** for Redesigning Earth.
 
-This repository contains the core technical work: materials, processes, hardware concepts, and validation data.
+## Conventions
+- **One formulation = one material log** (`biostruct-*.md`).
+- Logs keep *observations* and *test conditions* separate from *interpretation*.
+- Attachments (photos, PDFs) live in `materials/attachments/` and are referenced by **relative paths**.
+- Status is semantic (PASSED / IN PROGRESS / FAILED). Formatting does not encode status.
 
-## Scope
-Included:
-- chitin / chitosan-based composite formulations
-- extrusion and printhead concepts
-- process parameters and protocols
-- mechanical and environmental testing data
-
-Excluded:
-- marketing content
-- speculative concepts without experimental backing
-
-## Status
-Active research and prototyping.
-Expect incomplete documentation and iteration.
-
-## License
-Open source
-
-## Contact
-info@redesigningearth.com
+## Contents
+- `biostruct-95.md` — dry chitin/chitosan + sorbitol/citric acid (FAILED)
+- `biostruct-70-des.md` — DES-enabled system (IN PROGRESS, current frontier)
+- `research-summary.md` — external work reviewed (links)
+- `research-conclusions.md` — integrated conclusions + property-derivation
