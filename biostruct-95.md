@@ -25,7 +25,7 @@ Baseline dry formulation intended to plasticize chitosan under heat and shear to
 
 **Attachments:**
 - [attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg](attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg)
-- [attachments/biostruct-95_2025-09-02_static-heat_190c_visual-02.jpg](attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg)
+- [attachments/biostruct-95_2025-09-02_static-heat_190c_visual-02.jpg](attachments/biostruct-95_2025-09-02_static-heat_190c_visual-02.jpg)
 
 ### Field test — Dyze Pulsar extrusion
 **Date:** 2025-11-11  
