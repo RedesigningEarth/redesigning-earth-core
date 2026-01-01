@@ -24,8 +24,8 @@ Baseline dry formulation intended to plasticize chitosan under heat and shear to
 - Increasing temperature resulted in chitosan disintegration (thermal degradation behavior).
 
 **Attachments:**
-- `attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg`
-- `attachments/biostruct-95_2025-09-02_static-heat_190c_visual-02.jpg`
+- [attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg](attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg)
+- [attachments/biostruct-95_2025-09-02_static-heat_190c_visual-02.jpg](attachments/biostruct-95_2025-09-02_static-heat_190c_visual-01.jpg)
 
 ### Field test — Dyze Pulsar extrusion
 **Date:** 2025-11-11  
@@ -38,7 +38,7 @@ Baseline dry formulation intended to plasticize chitosan under heat and shear to
 - Higher temperatures led to disintegration/degradation.
 
 **Attachments:**
-- `attachments/biostruct-95_2025-11-11_pulsar-extrusion_190c_test-report.pdf`
+- [attachments/biostruct-95_2025-11-11_pulsar-extrusion_190c_test-report.pdf](attachments/biostruct-95_2025-11-11_pulsar-extrusion_190c_test-report.pdf)
 
 ## Interpretation
 - The hypothesis “chitosan plasticizes at ~190 °C under shear” is falsified under the tested conditions.
@@ -54,9 +54,9 @@ Classified as FAILED due to lack of plasticization and onset of degradation befo
 Discontinues the “dry powder + low plasticizer” approach as a melt-flow strategy. Supports shifting focus toward pressure-dominated consolidation rather than melt behavior.
 
 ## Linked documents (supplier / internal)
-- `attachments/tds-biostruct-95.pdf`
-- `attachments/golden-shell_mds_chitin.pdf`
-- `attachments/golden-shell_mds_chitosan.pdf`
-- `attachments/golden-shell_mds_chitin.pdf`
-- `attachments/golden-shell_mds_chitosan.pdf`
-- `attachments/golden-shell_test-results_biostruct-95.pdf`
+- [attachments/tds-biostruct-95.pdf](attachments/tds-biostruct-95.pdf)
+- [attachments/golden-shell_mds_chitin.pdf](attachments/golden-shell_mds_chitin.pdf)
+- [attachments/golden-shell_mds_chitosan.pdf](attachments/golden-shell_mds_chitosan.pdf)
+- [attachments/golden-shell_mds_chitin.pdf](attachments/golden-shell_mds_chitin.pdf)
+- [attachments/golden-shell_mds_chitosan.pdf](attachments/golden-shell_mds_chitosan.pdf)
+- [attachments/golden-shell_test-results_biostruct-95.pdf](attachments/golden-shell_test-results_biostruct-95.pdf)
