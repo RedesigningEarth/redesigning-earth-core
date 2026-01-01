@@ -23,7 +23,6 @@ structural performance, and automated fabrication.
 - Not structurally relevant under RE targets
 
 **Primary sources:**
-- https://www.media.mit.edu/publications/aguahoja/
 - https://www.media.mit.edu/projects/aguahoja/overview/
 
 ---
