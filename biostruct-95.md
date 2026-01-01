@@ -57,6 +57,6 @@ Discontinues the “dry powder + low plasticizer” approach as a melt-flow stra
 - [attachments/tds-biostruct-95.pdf](attachments/tds-biostruct-95.pdf)
 - [attachments/golden-shell_mds_chitin.pdf](attachments/golden-shell_mds_chitin.pdf)
 - [attachments/golden-shell_mds_chitosan.pdf](attachments/golden-shell_mds_chitosan.pdf)
-- [attachments/golden-shell_mds_chitin.pdf](attachments/golden-shell_mds_chitin.pdf)
-- [attachments/golden-shell_mds_chitosan.pdf](attachments/golden-shell_mds_chitosan.pdf)
+- [attachments/golden-shell_sds_chitin.pdf](attachments/golden-shell_sds_chitin.pdf)
+- [attachments/golden-shell_sds_chitosan.pdf](attachments/golden-shell_sds_chitosan.pdf)
 - [attachments/golden-shell_test-results_biostruct-95.pdf](attachments/golden-shell_test-results_biostruct-95.pdf)
