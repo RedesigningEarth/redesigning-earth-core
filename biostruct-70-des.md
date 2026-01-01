@@ -28,8 +28,8 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 - Powder matrix largely retained.
 
 **Attachments (rename on upload):**
-- `attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg`
-- `attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg`
+- [attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg](attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg)
+- [attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg](attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg)
 
 ### Test 2 — DES pre-melt + incremental powder addition
 **Date:** 2025-12-08  
@@ -43,14 +43,14 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 - Material becomes extremely rigid after cooling/drying (potential densification + strong bonding, brittleness risk).
 
 **Attachments (rename on upload):**
-- `attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg`
-- `attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-02.jpg`
-- `attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-03.jpg`
-- `attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-01.jpg`
-- `attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-02.jpg`
-- `attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-03.jpg`
-- `attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-04.jpg`
-- `attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-05.jpg`
+- [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg)
+- [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-02.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-02.jpg)
+- [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-03.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-03.jpg)
+- [attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-01.jpg](attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-01.jpg)
+- [attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-02.jpg](attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-02.jpg)
+- [attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-03.jpg](attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-03.jpg)
+- [attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-04.jpg](attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-04.jpg)
+- [attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-05.jpg](attachments/biostruct-70-des_2025-12-08_hot-mix_140c_visual-05.jpg)
 
 ## Interpretation (non-final)
 - DES enables localized and partial plasticization below decomposition limits.
