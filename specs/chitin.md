@@ -36,5 +36,5 @@
 - Avoid oxidizers and dust formation
 
 ## Source documents
-- SDS Chitin fileciteturn0file0
-- MDS Chitin fileciteturn0file1
+- `attachments/golden-shell_mds_chitin.pdf`
+- `attachments/golden-shell_sds_chitin.pdf`
