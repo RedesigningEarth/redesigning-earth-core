@@ -33,5 +33,5 @@
 - PPE: respirator, gloves, goggles
 
 ## Source documents
-- MDS Chitosan fileciteturn0file2
-- SDS Chitosan fileciteturn0file3
+- `attachments/golden-shell_mds_chitosan.pdf`
+- `attachments/golden-shell_sds_chitosan.pdf
