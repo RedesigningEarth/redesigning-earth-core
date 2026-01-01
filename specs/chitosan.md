@@ -31,7 +31,11 @@
 - Non-hazardous
 - Toxic fumes when burning
 - PPE: respirator, gloves, goggles
-
+  
+## Storage & handling
+- Cool, dry, ventilated
+- Avoid oxidizers and dust formation
+  
 ## Source documents
 - `attachments/golden-shell_mds_chitosan.pdf`
 - `attachments/golden-shell_sds_chitosan.pdf`
