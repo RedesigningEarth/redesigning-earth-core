@@ -54,7 +54,7 @@ Classified as FAILED due to lack of plasticization and onset of degradation befo
 Discontinues the “dry powder + low plasticizer” approach as a melt-flow strategy. Supports shifting focus toward pressure-dominated consolidation rather than melt behavior.
 
 ## Linked documents (supplier / internal)
-- `attachments/MDS-Biostruct-95.pdf`
+- `attachments/tds-biostruct-95.pdf`
 - `attachments/golden-shell_mds_chitin.pdf`
 - `attachments/golden-shell_mds_chitosan.pdf`
 - `attachments/golden-shell_mds_chitin.pdf`
