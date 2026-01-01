@@ -30,7 +30,6 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 **Attachments (rename on upload):**
 - `attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg`
 - `attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg`
-- `attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-03.jpg`
 
 ### Test 2 — DES pre-melt + incremental powder addition
 **Date:** 2025-12-08  
