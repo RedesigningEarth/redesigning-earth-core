@@ -45,7 +45,7 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 - Partial plasticization of chitosan observed.
 - Material becomes extremely rigid after cooling/drying (potential densification + strong bonding, brittleness risk).
 
-**Attachments (rename on upload):**
+**Attachments**
 - [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg)
 - [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-02.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-02.jpg)
 - [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-03.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-03.jpg)
