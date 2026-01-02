@@ -30,7 +30,7 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 - No observable bulk plasticization of chitosan.
 - Powder matrix largely retained.
 
-**Attachments (rename on upload):**
+**Attachments**
 - [attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg](attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-01.jpg)
 - [attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg](attachments/biostruct-70-des_2025-11-29_static-heat_140c_visual-02.jpg)
 
