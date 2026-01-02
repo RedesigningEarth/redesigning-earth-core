@@ -43,7 +43,7 @@ This formulation is treated as **mechanism exploration**, not a final constructi
 - DES fully plasticized prior to powder addition.
 - Formation of viscous, dough-like composite during hot mixing.
 - Partial plasticization of chitosan observed.
-- Material becomes extremely rigid after cooling/drying (potential densification + strong bonding, brittleness risk).
+- Material becomes rigid after cooling/drying (potential densification + strong bonding, brittleness risk).
 
 **Attachments**
 - [attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg](attachments/biostruct-70-des_2025-12-08_des-premelt_140c_visual-01.jpg)
