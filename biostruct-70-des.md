@@ -9,6 +9,9 @@ Current experimental frontier
 - Chitosan: 35%
 - Choline chloride: 15%
 - Citric acid: 15%
+  
+## Technical Data Sheet / Material Preparation Protocol
+[attachments/tds-biostruct-70-des.pdf](attachments/tds-biostruct-70-des.pdf)
 
 ## Rationale
 Evaluate whether a deep eutectic solvent (DES) system can enable partial chitosan plasticization at reduced temperature while avoiding fully solvent-dominated behavior.
