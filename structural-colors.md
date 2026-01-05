@@ -1,4 +1,4 @@
-#Structural-Colors — Surface Log
+# Structural-Colors — Surface Log
 
 ## Status
 IN PROGRESS  
@@ -36,13 +36,12 @@ Key properties:
 
 Primary references:
 - Fernández, A. et al. *Laser-induced periodic surface structures on polymers: mechanisms, properties, and applications*.  
-  https://doi.org/10.1002/admi.202201419  
-  https://advanced.onlinelibrary.wiley.com/doi/10.1002/admi.202201419
+  [https://doi.org/10.1002/admi.202201419](https://doi.org/10.1002/admi.202201419)  
+ 
 
 - Kuchmizhak, A. et al. *Laser-induced periodic surface structures for structural coloration*.  
-  https://doi.org/10.3390/nano12010105  
-  https://www.mdpi.com/2079-4991/12/1/105
-
+  [https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02547](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02547)
+ 
 ### Structural color generation
 Structural color arises from interference, diffraction, and resonant scattering at nano-structured surfaces.
 
@@ -59,7 +58,7 @@ Relevant observations from polymer and biopolymer studies:
 
 Supporting literature:
 - Kuchmizhak, A. et al., *Laser-induced nanostructuring of biopolymers*.  
-  https://doi.org/10.3390/ma14071691
+  [https://www.mdpi.com/2079-4991/14/4/344](https://www.mdpi.com/2079-4991/14/4/344)
 
 ### Surface states achievable
 Published research demonstrates:
