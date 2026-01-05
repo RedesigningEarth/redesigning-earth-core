@@ -63,7 +63,7 @@ Key findings:
 
 Research basis:
 - Maskery, I. et al. *Mechanical properties of TPMS lattices*.  
-  [[https://www.sciencedirect.com/science/article/pii/S0264127517303113](https://www.sciencedirect.com/science/article/pii/S0032386117311175)](https://www.sciencedirect.com/science/article/pii/S0032386117311175)
+  [https://www.sciencedirect.com/science/article/pii/S0032386117311175)](https://www.sciencedirect.com/science/article/pii/S0032386117311175)
 
 ### Applicability to LFAM extrusion
 While most architected material research occurs at micro–meso scale, core principles scale geometrically.
