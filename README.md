@@ -1,28 +1,12 @@
-# Redesigning Earth — Core
+# Structures
 
-Redesigning Earth develops and validates an automated construction system adapted to post-industrial constraints:
-- locally producible, renewable biological materials
-- large-scale additive manufacturing under persistent labor scarcity
+This folder contains **structural design logics** by bio-based large-scale additive manufacturing.
 
-This repository contains the core technical work: materials, processes, hardware concepts, and validation data.
+## Conventions
+- Structures are treated as functional systems, not static solid.
+- Status is semantic (PASSED / IN PROGRESS / FAILED). Formatting does not encode status.
 
-## Scope
-Included:
-- chitin / chitosan-based composite formulations
-- extrusion and printhead concepts
-- process parameters and protocols
-- mechanical and environmental testing data
-
-Excluded:
-- marketing content
-- speculative concepts without experimental backing
-
-## Status
-Active research and prototyping.
-Expect incomplete documentation and iteration.
-
-## License
-Open source
-
-## Contact
-info@redesigningearth.com
+## Contents
+- `open-matrix.md` — open matrix load-bearing structures for material efficiency and insulation properties (IN PROGRESS)
+- `structural-colors.md` — post-processing femtosecond LIPSS laser–encoded structural coloration and surface finish (IN PROGRESS)
+- `utility-voids.md` — integrated utility voids in LFAM workflow (IN PROGRESS)
