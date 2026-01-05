@@ -36,7 +36,7 @@ Key findings:
 
 Primary references:
 - Weaver, J. C. et al. *Biomineralization and mechanical performance of glass sponge skeletons*.  
-  https://www.nature.com/articles/nmat3916
+  [[https://www.nature.com/articles/nmat3916](https://www.nature.com/articles/s41563-020-0798-1)](https://www.nature.com/articles/s41563-020-0798-1)
 
 ### Architected materials and mechanical metamaterials
 Recent materials science research demonstrates that architected open matrices can outperform bulk solids when geometry is optimized.
@@ -47,11 +47,11 @@ Key findings:
 - Hierarchical architectures outperform single-scale lattices.
 
 Primary references:
-- Meza, L. R. et al. *Resilient architected materials*.  
-  https://www.nature.com/articles/s41563-020-0798-1
+- Meza, L. R. et al. *Resilient 3D hierarchical architected metamaterials*.  
+  [[https://www.nature.com/articles/s41563-020-0798-1](https://www.pnas.org/doi/10.1073/pnas.1509120112)](https://www.pnas.org/doi/10.1073/pnas.1509120112)
 
 - Zheng, X. et al. *Ultralight, ultrastiff mechanical metamaterials*.  
-  https://www.nature.com/articles/nmat4687
+  [[https://www.nature.com/articles/nmat4687](https://www.researchgate.net/publication/263280586_Ultralight_Ultrastiff_Mechanical_Metamaterials)](https://www.researchgate.net/publication/263280586_Ultralight_Ultrastiff_Mechanical_Metamaterials)
 
 ### Curvature continuity and node-free lattices
 Research shows that eliminating discrete nodes significantly improves mechanical performance.
@@ -63,7 +63,7 @@ Key findings:
 
 Research basis:
 - Maskery, I. et al. *Mechanical properties of TPMS lattices*.  
-  https://www.sciencedirect.com/science/article/pii/S0264127517303113
+  [[https://www.sciencedirect.com/science/article/pii/S0264127517303113](https://www.sciencedirect.com/science/article/pii/S0032386117311175)](https://www.sciencedirect.com/science/article/pii/S0032386117311175)
 
 ### Applicability to LFAM extrusion
 While most architected material research occurs at micro–meso scale, core principles scale geometrically.
@@ -75,7 +75,7 @@ Relevant conclusions:
 
 Supporting research:
 - Gibson, L. J., Ashby, M. F. *Cellular Solids: Structure and Properties*.  
-  https://doi.org/10.1017/CBO9781139878326
+  [https://doi.org/10.1017/CBO9781139878326](https://doi.org/10.1017/CBO9781139878326)
 
 ## Interpretation (non-final)
 Published research demonstrates that open skeletal matrices can achieve superior stiffness, strength, and damage tolerance when geometry is curvature-continuous and hierarchical.
