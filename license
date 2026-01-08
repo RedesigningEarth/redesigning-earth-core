@@ -1,0 +1,121 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+Through this CERN Open Hardware Licence (the “Licence”), CERN wishes to
+provide a tool to foster collaboration and sharing among hardware designers.
+The CERN Open Hardware Licence is copyright CERN. Anyone is welcome to use it,
+on the terms and conditions set out below.
+
+This Licence applies to any CERN Open Hardware that is subject to this Licence,
+as indicated in the documentation, including, but not limited to, design
+documents, schematics, layout designs, printed circuit board designs,
+mechanical designs, source code, and any other materials that describe or are
+used to manufacture the hardware.
+
+The Licensee is granted the right to use, reproduce, modify, and distribute
+the Licensed Material, and to manufacture and distribute Products, under the
+terms of this Licence.
+
+This Licence is a strongly reciprocal licence, which means that if you make
+Available Modified Material or a Product, you must do so under the terms of
+this Licence.
+
+1. Definitions
+
+1.1 “Available” means made available to the public by any means, including
+distribution or public performance.
+
+1.2 “CERN” means the European Organization for Nuclear Research.
+
+1.3 “Documentation” means all the materials that describe or are used to
+manufacture the Hardware, including design files, drawings, schematics,
+layouts, bills of materials, and instructions.
+
+1.4 “Hardware” means any physical device or component, including without
+limitation printed circuit boards, integrated circuits, mechanical parts,
+and assemblies.
+
+1.5 “Licensed Material” means the Documentation and any other material to
+which this Licence applies.
+
+1.6 “Licensee” means any person or entity exercising rights under this
+Licence.
+
+1.7 “Licensor” means the person or entity granting rights under this Licence.
+
+1.8 “Modified Material” means any Licensed Material that has been modified,
+adapted, or changed.
+
+1.9 “Product” means any device or system that incorporates or is based on the
+Licensed Material or Modified Material.
+
+2. Grant of Rights
+
+2.1 Subject to the terms and conditions of this Licence, the Licensor hereby
+grants the Licensee a worldwide, royalty-free, non-exclusive, perpetual
+licence to use, reproduce, modify, and distribute the Licensed Material, and
+to manufacture, use, and distribute Products.
+
+2.2 This Licence includes a patent licence, which grants the Licensee a
+worldwide, royalty-free, non-exclusive, perpetual licence under any patents
+held by the Licensor that are necessarily infringed by the use of the Licensed
+Material or the manufacture of Products.
+
+3. Reciprocity
+
+3.1 If the Licensee makes Available Modified Material or a Product, the
+Licensee must make the Modified Material or Product Available under the terms
+of this Licence.
+
+3.2 The Licensee must include a copy of this Licence with any distribution of
+the Licensed Material, Modified Material, or Products.
+
+4. Attribution
+
+4.1 The Licensee must retain all copyright, trademark, and attribution notices
+in the Licensed Material.
+
+4.2 The Licensee must give appropriate credit to the Licensor, provide a link
+to this Licence, and indicate if changes were made.
+
+5. Disclaimer of Warranty
+
+5.1 The Licensed Material is provided “as is” and without any express or
+implied warranties, including, without limitation, warranties of
+merchantability, fitness for a particular purpose, or non-infringement.
+
+6. Limitation of Liability
+
+6.1 In no event shall the Licensor be liable for any damages arising out of or
+in connection with the use or distribution of the Licensed Material or
+Products.
+
+7. Patent Retaliation
+
+7.1 If the Licensee institutes patent litigation against any party alleging
+that the Licensed Material or a Product infringes a patent, then the patent
+licence granted under this Licence shall terminate as of the date such
+litigation is filed.
+
+8. Termination
+
+8.1 This Licence is effective until terminated.
+
+8.2 Any breach of the terms of this Licence automatically terminates the
+Licensee’s rights under this Licence.
+
+8.3 Upon termination, the Licensee must cease all use, reproduction, and
+distribution of the Licensed Material, Modified Material, and Products.
+
+9. General
+
+9.1 This Licence shall be governed by and construed in accordance with the laws
+of Switzerland.
+
+9.2 If any provision of this Licence is held to be unenforceable, such
+provision shall be reformed only to the extent necessary to make it
+enforceable.
+
+9.3 This Licence constitutes the entire agreement between the parties with
+respect to the Licensed Material.
