@@ -22,7 +22,8 @@ Active research and prototyping.
 Expect incomplete documentation and iteration.
 
 ## License
-Open source
+CERN Open Hardware Licence v2 – Strongly Reciprocal (CERN OHL v2-S)
+See **LICENSE.md** for full text.
 
 ## Contact
 info@redesigningearth.com
